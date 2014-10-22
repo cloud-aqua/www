@@ -5,7 +5,19 @@ Contact
 * Dr. Tom Furlani Email: furlani_at_ccr DOT buffalo DOT edu
 * Prof. Ram Ramesh Email: rramesh At buffalo DOT edu
 * Associate Professor. Sanjukta Das Smith Email: sdsmith4 At buffalo DOT edu
-* Adj. Assoc. Prof. Gregor Von Laszewski Email: laszewski@gmail.com
+* Adj. Assoc. Prof. (co-PI) Gregor von Laszewski, Indiana University,
+  laszewski@gmail.com
+
+Contributing Staff
+----------------------------------------------------------------------
+
+* Fugang Wang, Indiana University
+
+
+Contributiing Students
+----------------------------------------------------------------------
+
+* Hyungro Lee, Indiana University
 * Zhouhan Yang
 * Shuai Yuan
 * Ye Du
