@@ -125,14 +125,14 @@ html_theme_options = {
     #    (name, "http://example.com", True) # arbitrary absolute url
     # Note the "1" or "True" value above as the third argument to indicate
     # an arbitrary url.
-    # 'navbar_links': [
-    #     ("Examples", "examples"),
+    'navbar_links': [
+         ("Site", "index"),
     #     ("Link", "http://example.com", True),
-    # ],
+    ],
 
     # Global TOC depth for "site" navbar tab. (Default: 1)
     # Switching to -1 shows all levels.
-    'globaltoc_depth': 2,
+    'globaltoc_depth': -1,
 
     # Include hidden TOCs in Site navbar?
     #
@@ -186,19 +186,19 @@ html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = "Aqua"
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
 
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
-html_logo ="images/cm-logo-24.png"
+# html_logo ="images/cm-logo-24.png"
 
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = "images/cm-logo.ico"
+# html_favicon = "images/cm-logo.ico"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -227,6 +227,12 @@ html_sidebars = {
              'sourcelink.html',
             ],
    'index': ['menu.html',
+             'localtoc.html',
+             #'relations.html',
+             'searchbox.html',
+             'sourcelink.html',
+            ],
+   'overview': ['menu.html',
              'localtoc.html',
              #'relations.html',
              'searchbox.html',
