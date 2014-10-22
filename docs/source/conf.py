@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# mycloudmesh.org documentation build configuration file, created by
-# sphinx-quickstart on Fri Aug 22 10:32:06 2014.
-#
 # This file is execfile()d with the current directory set to its
 # containing dir.
 #
@@ -51,11 +48,11 @@ source_suffix = '.rst'
 #source_encoding = 'utf-8-sig'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = 'overview'
 
 # General information about the project.
-project = u'mycloudmesh.org'
-copyright = u'2014, Gregor von Laszewski'
+project = u'Cloud Aqua'
+copyright = u'2014, The Cloud Aqua Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the

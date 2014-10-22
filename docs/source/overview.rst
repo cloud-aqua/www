@@ -1,7 +1,10 @@
+Overview
+======================================================================
+
 **Collaborative Research: An Analytic Approach to Quantifying Availability (AQUA) for Cloud Resource Provisioning and Allocation**
 
 
-Motivation, Significance and Relevance
+Motivation
 ----------------------------------------------------------------------
 
 Cloud computing will significantly transform the landscape of the IT
@@ -58,7 +61,7 @@ failure data or application performance requirements to academia
 researchers). Their suggested future work has helped shaped the scope
 and approaches described in this proposal.
 
-Overview
+Approach
 ----------------------------------------------------------------------
 
 This project will take a holistic approach to meeting a required availability level for a given cloud application or (service) by
@@ -82,6 +85,8 @@ This project will take a holistic approach to meeting a required availability le
   resource provisioning and allocation algorithms.
 
 
+|image-holistic|  
+
 Fig. 1 illustrates the overall system model to be considered in this project. As shown, we will consider two types of applications/jobs:
 
 The first (e.g., Application/Job 1) is relatively critical in that it
@@ -94,3 +99,5 @@ given application/job. This is due to the fact that when a virtualized
 server fails, multiple VMs placed on the server will all fail. It is
 also worth noting that even at the server levels, failures (or
 non-accessibility) may be correlated both temporally and spatially.
+
+.. |image-holistic| image:: images/Holistic_view.jpg
