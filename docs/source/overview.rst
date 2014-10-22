@@ -1,5 +1,5 @@
-Collaborative Research: An Analytic Approach to Quantifying Availability (AQUA) for Cloud Resource Provisioning and Allocation
-===================================================================================
+**Collaborative Research: An Analytic Approach to Quantifying Availability (AQUA) for Cloud Resource Provisioning and Allocation**
+
 
 Motivation, Significance and Relevance
 ----------------------------------------------------------------------
