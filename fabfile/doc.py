@@ -14,6 +14,10 @@ def all():
     pdf()
     epub()
 
+@task
+def clean():
+    pass
+    
 @task    
 def view(kind='html'):
     if kind == 'html':
@@ -38,7 +42,6 @@ def html(theme_name='bootstrap'):
     # man()
     """build the doc locally and view"""
     clean()
-    convert()
     local("cd docs; make html")
 
 @task
