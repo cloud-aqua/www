@@ -2,14 +2,8 @@ Cloud Aqua
 ===========================================
 
 .. toctree::
-   :maxdepth: 6
+   :maxdepth: 2
 
    overview	      
-   research
-   people
-   related_work
-   publication
    contact
-   
-
 
