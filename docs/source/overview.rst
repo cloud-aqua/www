@@ -87,7 +87,7 @@ This project will take a holistic approach to meeting a required availability le
 
 |image-holistic|  
 
-Fig. 1 illustrates the overall system model to be considered in this project. As shown, we will consider two types of applications/jobs:
+Fig. 1 illustrates the overall system model to be considered in this project. As shown, we will consider two types of applications/jobs
 
 The first (e.g., Application/Job 1) is relatively critical in that it
 requires a (constant) minimum number of VMs, e.g., N1, be available
