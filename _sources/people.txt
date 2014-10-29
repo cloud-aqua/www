@@ -1,0 +1,25 @@
+Project Members
+======================================================================
+
+Faculty
+----------------------------------------------------------------------
+
+* Prof. Chunming Qiao (PI), Department of Computer Science and Engineering, University at Buffalo
+
+* Dr. Tom Furlani, Director of CCR, University at Buffalo
+
+* Prof. Ram Ramesh, Management Science and Systems Department, University at Buffalo 
+
+* Associate Professor. Sanjukta Das Smith, Management Science and Systems Department, University at Buffalo 
+
+* Gregor Von Laszewski, School of Informatics and Computing, Indiana University
+
+Group Member
+----------------------------------------------------------------------
+
+* Zhouhan Yang
+* Shuai Yuan
+* Ye Du
+* Vinoth Selvaraju
+
+
