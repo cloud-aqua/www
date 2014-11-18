@@ -1,4 +1,4 @@
-Research Thrusts, Novelty and Expected Contributions
+Research Thrusts
 ======================================================================
 
 Research Thrusts
@@ -33,7 +33,7 @@ merits,
 -  Availability-aware multi-objective optimization
 -  Experiments on production and testbed systems
 
-Expected Broader ImpaAQUA and Contributions
+Expected Broader Impact and Contributions
 ----------------------------------------------------------------------
 
 -  Significant advancement of the state-of-the-art by offering deep
@@ -64,7 +64,7 @@ Expected Broader ImpaAQUA and Contributions
    and avoid wasted energy consumed by interrupted jobs. Importantly, it
    can also encourage new users and applications, generating further
    cost savings and increased productivity to customers and increased
-   revenues to service providers, which in turn positively impaAQUA our
+   revenues to service providers, which in turn positively impact our
    economy.
 
 .. |image2| image:: images/Thrust.jpg
