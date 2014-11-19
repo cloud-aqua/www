@@ -12,7 +12,7 @@ industry and also impact the economy and society in many ways. The
 availability of cloud services, affected by various failures including
 inaccessibility of cloud resources, becomes increasingly more
 critical, as government agencies, business and people are expected to
-rely more and more on these services. According to a 2011 report [1],
+rely more and more on these services. According to a 2011 report by Emerson Network Power,
 on average, a service outage lasts about 134 minutes, and these
 service outages cost about $426 billion of loss worldwide.
 Additionally, 2012 global survey found that availability/reliability
@@ -27,14 +27,16 @@ Infrastructure-as-a-Service (IaaS) provider needs a middleware to
 determine the minimum number of backup VMs, say K, to be provisioned,
 and in addition, how these (N+K) are placed (or mapped) to the
 servers, as well as other servers and VM management strategies (e.g.,
-when to power- on servers with the backup VMs etc.). In turn, the
+when to power-on servers with the backup VMs etc.). In turn, the
 middleware needs an efficient model to predict the availability that
 can be achieved for a given N, K and other system settings. In
 particular, the middleware will need a comprehensive knowledge of the
 failure characteristics of the physical components such as servers and
 switches including their mean-time-between-failure (MTBF) and
 mean-time-to-repair (or replacement) (MTTR) and in particular, how the
-failures may be correlated temporally and spatially. Despite a body of
+failures may be correlated temporally and spatially. 
+
+Despite a body of
 recent work on reporting/characterizing failures in datacenters, there
 still lacks a comprehensive and publicly accessible failure data set
 for use by researchers in academia/universities. In addition, although
@@ -46,20 +48,6 @@ accurately predict the availability, let alone any methods to
 determine the optimal VM provisioning and allocation (placement) to
 achieve a given availability level.
 
-It is worth noting that the proposed project is inspired and built
-upon a recently research project sponsored by Google (Disaster
-Recovery and Availability Prediction (DRAP) for Clouds, $102,000,
-1/1/2012 to 12/31/2012) carried out by the PIs. Google's interest in
-achieving a (minimum) availability level for certain cloud services /
-applications arises from the fact these cloud services require a
-quorum provided by at least N running VMs. Google researchers who
-sponsored the project have not only guided our project but also
-provided several useful insights including the need to consider
-correlated (or cascaded) failures of servers and switches/routers (one
-must realize that Google can't provide any detailed physical component
-failure data or application performance requirements to academia
-researchers). Their suggested future work has helped shaped the scope
-and approaches described in this proposal.
 
 Approach
 ----------------------------------------------------------------------
