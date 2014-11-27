@@ -7,10 +7,6 @@ Faculty
 * `Prof. Chunming Qiao, Department of Computer Science and Engineering, University at Buffalo 
   <http://www.cse.buffalo.edu/~qiao/mysite/index.html>`_ 
   |image-qiao|
-   (:height: 164
-   :width: 120
-   :scale: 50
-   :alt: alternate text)
 
 * `Prof. Sanjukta Das Smith, Management Science and Systems Department, University at Buffalo 
   <http://mgt.buffalo.edu/faculty/academic/systems/faculty/sdsmith4>`_ 
@@ -41,7 +37,10 @@ Students
 * Shuai Yuan, Doctoral Student at University at Buffalo - Management Science and Systems, School of Management
 * Vinoth Selvaraju, Master Student at University at Buffalo - Computer Science and Engineering, School of Engineering and Applied Sciences
 
-.. |image-qiao| image:: images/qiao.jpg
+.. |image-qiao| image:: images/qiao.jpg (:height: 164
+   :width: 120
+   :scale: 50
+   :alt: alternate text)
 .. |image-TomFurlani| image:: images/TomFurlani.jpg
 .. |image-rramesh| image:: images/rramesh.jpg
 .. |image-sdsmith4| image:: images/sdsmith4.jpg
