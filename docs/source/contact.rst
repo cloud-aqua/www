@@ -37,9 +37,9 @@ Students
 * Vinoth Selvaraju, Master Student at University at Buffalo - Computer Science and Engineering, School of Engineering and Applied Sciences
 
 .. |image-qiao| image:: images/qiao.jpg
-    :height: 100px
-    :width: 200 px
-    :scale: 50 %
+    :height: 164px
+    :width: 120px
+    :scale: 50%
     :alt: alternate text
     :align: left
 
