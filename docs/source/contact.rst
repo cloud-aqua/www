@@ -7,6 +7,11 @@ Faculty
 * `Prof. Chunming Qiao, Department of Computer Science and Engineering, University at Buffalo 
   <http://www.cse.buffalo.edu/~qiao/mysite/index.html>`_ 
   |image-qiao|
+   :height: 164
+   :width: 120
+   :scale: 50
+   :alt: alternate text
+
 * `Prof. Sanjukta Das Smith, Management Science and Systems Department, University at Buffalo 
   <http://mgt.buffalo.edu/faculty/academic/systems/faculty/sdsmith4>`_ 
   |image-sdsmith4|
