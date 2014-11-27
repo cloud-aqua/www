@@ -1,4 +1,4 @@
-Related Work
+Relevant Literature
 ======================================================================
 
 Physical Component Failure Characterization in Datacenters

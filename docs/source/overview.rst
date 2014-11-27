@@ -1,4 +1,4 @@
-Overview
+What is CloudAqua?
 ======================================================================
 
 **Collaborative Research: An Analytic Approach to Quantifying Availability (AQUA) for Cloud Resource Provisioning and Allocation**
@@ -55,8 +55,8 @@ Approach
 This project will take a holistic approach to meeting a required availability level for a given cloud application or (service) by
 
 * Collecting and analyzing a large set of log data about physical
-   components (such as servers and switches) from large-scale
-   production systems, and model their failure processes
+  components (such as servers and switches) from large-scale
+  production systems, and model their failure processes
 * Designing novel availability-aware middleware (mainly algorithms)
   for provisioning and allocation of both working and backup VMs for a
   given cloud application requiring a certain availability level (e.g., 99%)
