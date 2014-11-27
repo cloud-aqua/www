@@ -6,7 +6,7 @@ Faculty
 
 * `Prof. Chunming Qiao, Department of Computer Science and Engineering, University at Buffalo 
   <http://www.cse.buffalo.edu/~qiao/mysite/index.html>`_ 
-  	.. image:: images/qiao.jpg
+   .. image:: images/qiao.jpg
     :height: 164px
     :width: 120px
 
