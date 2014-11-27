@@ -4,17 +4,22 @@ People
 Faculty
 ----------------------------------------------------------------------
 
-* `Prof. Chunming Qiao, Department of Computer Science and Engineering, University at Buffalo <http://www.cse.buffalo.edu/~qiao/mysite/index.html>`_ 
-  |image-qiao|
-* `Prof. Sanjukta Das Smith, Management Science and Systems Department, University at Buffalo <http://mgt.buffalo.edu/faculty/academic/systems/faculty/sdsmith4>`_ 
+* `Prof. Chunming Qiao, Department of Computer Science and Engineering, University at Buffalo 
+  <http://www.cse.buffalo.edu/~qiao/mysite/index.html>`_ 
   |image-sdsmith4|
-* `Prof. Ram Ramesh, Management Science and Systems Department, University at Buffalo <http://mgt.buffalo.edu/faculty/academic/systems/faculty/rramesh>`_ 
+* `Prof. Sanjukta Das Smith, Management Science and Systems Department, University at Buffalo 
+  <http://mgt.buffalo.edu/faculty/academic/systems/faculty/sdsmith4>`_ 
+  |image-sdsmith4|
+* `Prof. Ram Ramesh, Management Science and Systems Department, University at Buffalo 
+  <http://mgt.buffalo.edu/faculty/academic/systems/faculty/rramesh>`_ 
   |image-rramesh|
 * Dr. Anna Ye Du, Texas A&M University, College Station
-* `Prof. Tom Furlani, Director of CCR, University at Buffalo <http://www.buffalo.edu/ccr/people/staff/furlani.html>`_ 
+* `Prof. Tom Furlani, Director of CCR, University at Buffalo 
+  <http://www.buffalo.edu/ccr/people/staff/furlani.html>`_ 
   |image-TomFurlani|
 
-* `Prof. Gregor von Laszewski, School of Informatics and Computing, Indiana University <http://gregor.cyberaide.org>`_ 
+* `Prof. Gregor von Laszewski, School of Informatics and Computing, Indiana University 
+  <http://gregor.cyberaide.org>`_ 
   |image-gregor|
 
 Staff
