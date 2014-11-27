@@ -37,8 +37,8 @@ Students
 * Shuai Yuan, Doctoral Student at University at Buffalo - Management Science and Systems, School of Management
 * Vinoth Selvaraju, Master Student at University at Buffalo - Computer Science and Engineering, School of Engineering and Applied Sciences
 
-.. |image-qiao| image:: images/qiao.jpg (:height: 164px
-   :width: 120px)
+.. |image-qiao| image:: images/qiao.jpg (:height: 164
+   :width: 120)
 .. |image-TomFurlani| image:: images/TomFurlani.jpg
 .. |image-rramesh| image:: images/rramesh.jpg
 .. |image-sdsmith4| image:: images/sdsmith4.jpg
