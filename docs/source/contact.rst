@@ -12,13 +12,13 @@ Faculty
 
 * `Prof. Sanjukta Das Smith, Management Science and Systems Department, University at Buffalo 
   <http://mgt.buffalo.edu/faculty/academic/systems/faculty/sdsmith4>`_ 
-  .. image:: images/sdsmith4.jpg
+   .. image:: images/sdsmith4.jpg
     :height: 164px
     :width: 120px
 
 * `Prof. Ram Ramesh, Management Science and Systems Department, University at Buffalo 
   <http://mgt.buffalo.edu/faculty/academic/systems/faculty/rramesh>`_ 
-  .. image:: images/rramesh.jpg
+   .. image:: images/rramesh.jpg
     :height: 164px
     :width: 120px
 
@@ -26,13 +26,13 @@ Faculty
 
 * `Prof. Tom Furlani, Director of CCR, University at Buffalo 
   <http://www.buffalo.edu/ccr/people/staff/furlani.html>`_ 
-  .. image:: images/TomFurlani.jpg
+   .. image:: images/TomFurlani.jpg
     :height: 164px
     :width: 120px
 
 * `Prof. Gregor von Laszewski, School of Informatics and Computing, Indiana University 
   <http://gregor.cyberaide.org>`_ 
-  .. image:: images/gregor.jpg
+   .. image:: images/gregor.jpg
     :height: 164px
     :width: 120px
 
