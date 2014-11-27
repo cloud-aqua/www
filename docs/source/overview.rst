@@ -75,17 +75,15 @@ This project will take a holistic approach to meeting a required availability le
 
 |image-holistic|  
 
-Fig. 1 illustrates the overall system model to be considered in this project. As shown, we will consider two types of applications/jobs
+The above illustrates the overall system model to be considered in this project. As shown, we will consider two types of applications/jobs
 
-The first (e.g., Application/Job 1) is relatively critical in that it
-requires a (constant) minimum number of VMs, e.g., N1, be available
-most of the time (e.g. 99.9%) The second (e.g., Application/Job2) can
-afford a dynamic (i.e., time-varying) number of VMs, e.g., N2(t) at
-time t, with a lower availability In either case, multiple backup VMs
-(e.g., K1 > 1) may be needed to meet the availability requirement of a
-given application/job. This is due to the fact that when a virtualized
-server fails, multiple VMs placed on the server will all fail. It is
-also worth noting that even at the server levels, failures (or
-non-accessibility) may be correlated both temporally and spatially.
+* Application/Job 1 is relatively critical in that it requires a 
+  (constant) minimum number of VMs, e.g., N1, be available
+  most of the time (e.g. 99.9%) 
+* Application/Job2 can afford a dynamic (i.e., time-varying) number of VMs, 
+  e.g., N2(t) at time t, with a lower availability 
+
+In either case, multiple backup VMs (e.g., K1 > 1) may be needed to meet the availability requirement of a
+given application/job. This is due to the fact that when a virtualized server fails, multiple VMs placed on the server will all fail. It is also worth noting that even at the server levels, failures (or non-accessibility) may be correlated both temporally and spatially.
 
 .. |image-holistic| image:: images/Holistic_view.jpg
