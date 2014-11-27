@@ -4,8 +4,8 @@ People
 Faculty
 ----------------------------------------------------------------------
 
-* `Prof. Chunming Qiao, Department of Computer Science and Engineering, University at Buffalo 
-  <http://www.cse.buffalo.edu/~qiao/mysite/index.html>`_ 
+* `Prof. Chunming Qiao <http://www.cse.buffalo.edu/~qiao/mysite/index.html>`_ 
+  Department of Computer Science and Engineering, University at Buffalo 
    .. image:: images/qiao.jpg
     :height: 164px
     :width: 120px
