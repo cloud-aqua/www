@@ -10,24 +10,33 @@ Faculty
 
    * - Image
      - Address
-   * - |gregor|_
-     - A
-       B
-       C
+   * - |qiao|
+     - | `Prof. Chunming Qiao <http://www.cse.buffalo.edu/~qiao/mysite/index.html>`_
+       | Department of Computer Science and Engineering, University at Buffalo 
+   * - |gregor|
+     -
+     
+       | Gregor von Laszewski
+       | School of Informatics and Computing
+       | Assitant Director CGL
+       | Adj. Associate Prof. 
+       | 419 N. Indiana Ave
+       | Bloomington IN 47408
+       | Phone (cell): (585) 993 2922
+       | E-mail: laszewski@gmail.com 
+       | Web Page: http://gregor.cyberaide.org 
+    
 
-   `Prof. Gregor von Laszewski, School of Informatics and Computing, Indiana University 
-  <http://gregor.cyberaide.org>`_ 
+
+       
        
 .. |gregor| image:: images/gregor.jpg
     :height: 164px
     :width: 120px
 .. _gvl1pdf: https://github.com/cyberaide/paper-tas/raw/master/vonLaszewski-tas.pdf
 
-	    
-       
-* `Prof. Chunming Qiao <http://www.cse.buffalo.edu/~qiao/mysite/index.html>`_ 
-  | Department of Computer Science and Engineering, University at Buffalo 
-   .. image:: images/qiao.jpg
+	           
+.. |qiao| image:: images/qiao.jpg
     :height: 164px
     :width: 120px
 
