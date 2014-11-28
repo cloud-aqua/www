@@ -30,7 +30,7 @@ CloudAqua Publications
   Virtual Servers”, Workshop on Information Technologies and Systems
   (WITS), Shanghai, China, December 2011.
 
-Cloud Metrics Publication related publication 
+Cloud Metrics Publications
 ----------------------------------------------------------------------
 
 The publications [vonLaszewski0][vonlaszewski1] were funded by the NSF TAS project. 
