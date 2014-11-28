@@ -1,4 +1,4 @@
-Cloud Aqua
+CloudAqua
 ===========================================
 
 .. toctree::
@@ -7,6 +7,8 @@ Cloud Aqua
 	      
    overview	      
    contact
+   organizations
    publication
    research
+   researchgrant
    related_work

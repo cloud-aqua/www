@@ -5,7 +5,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Overview &mdash; Aqua</title>
+    <title>What is CloudAqua? &mdash; Aqua</title>
     
     <link rel="stylesheet" href="_static/basic.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -86,7 +86,7 @@
   <ul class="dropdown-menu localtoc"
       role="menu"
       aria-labelledby="dLabelLocalToc"><ul>
-<li><a class="reference internal" href="#">Overview</a><ul>
+<li><a class="reference internal" href="#">What is CloudAqua?</a><ul>
 <li><a class="reference internal" href="#motivation">Motivation</a></li>
 <li><a class="reference internal" href="#approach">Approach</a></li>
 </ul>
@@ -144,7 +144,7 @@
 
 
 <h4 class="nav-header"> &nbsp; Page Contents</h4><ul>
-<li><a class="reference internal" href="#">Overview</a><ul>
+<li><a class="reference internal" href="#">What is CloudAqua?</a><ul>
 <li><a class="reference internal" href="#motivation">Motivation</a></li>
 <li><a class="reference internal" href="#approach">Approach</a></li>
 </ul>
@@ -166,8 +166,8 @@
       </div>
     <div class="col-md-9">
       
-  <div class="section" id="overview">
-<h1>Overview<a class="headerlink" href="#overview" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="what-is-cloudaqua">
+<h1>What is CloudAqua?<a class="headerlink" href="#what-is-cloudaqua" title="Permalink to this headline">¶</a></h1>
 <p><strong>Collaborative Research: An Analytic Approach to Quantifying Availability (AQUA) for Cloud Resource Provisioning and Allocation</strong></p>
 <div class="section" id="motivation">
 <h2>Motivation<a class="headerlink" href="#motivation" title="Permalink to this headline">¶</a></h2>
@@ -213,44 +213,36 @@ achieve a given availability level.</p>
 <div class="section" id="approach">
 <h2>Approach<a class="headerlink" href="#approach" title="Permalink to this headline">¶</a></h2>
 <p>This project will take a holistic approach to meeting a required availability level for a given cloud application or (service) by</p>
-<ul>
-<li><dl class="first docutils">
-<dt>Collecting and analyzing a large set of log data about physical</dt>
-<dd><p class="first last">components (such as servers and switches) from large-scale
-production systems, and model their failure processes</p>
-</dd>
-</dl>
-</li>
-<li><p class="first">Designing novel availability-aware middleware (mainly algorithms)
+<ul class="simple">
+<li>Collecting and analyzing a large set of log data about physical
+components (such as servers and switches) from large-scale
+production systems, and model their failure processes</li>
+<li>Designing novel availability-aware middleware (mainly algorithms)
 for provisioning and allocation of both working and backup VMs for a
-given cloud application requiring a certain availability level (e.g., 99%)</p>
-</li>
-<li><p class="first">Using effective models and analytic techniques, e.g., sample path
+given cloud application requiring a certain availability level (e.g., 99%)</li>
+<li>Using effective models and analytic techniques, e.g., sample path
 analysis, to predict the availability to be achieved given the
 information on the provisioned and allocated resources; the
 predicted availability is then used to determine e.g., the number of
 additional backup VMs needed, and how the working and backup VMs are
 to be placed in a datacenter so as to achieve the
-desired availability level</p>
-</li>
-<li><p class="first">Implementing the proposed middleware, and running cloud applications
+desired availability level</li>
+<li>Implementing the proposed middleware, and running cloud applications
 in our cloud testbed to validate and evaluate the proposed
 availability-prediction models and availability-aware
-resource provisioning and allocation algorithms.</p>
-</li>
+resource provisioning and allocation algorithms.</li>
 </ul>
 <p><img alt="image-holistic" src="_images/Holistic_view.jpg" /></p>
-<p>Fig. 1 illustrates the overall system model to be considered in this project. As shown, we will consider two types of applications/jobs</p>
-<p>The first (e.g., Application/Job 1) is relatively critical in that it
-requires a (constant) minimum number of VMs, e.g., N1, be available
-most of the time (e.g. 99.9%) The second (e.g., Application/Job2) can
-afford a dynamic (i.e., time-varying) number of VMs, e.g., N2(t) at
-time t, with a lower availability In either case, multiple backup VMs
-(e.g., K1 &gt; 1) may be needed to meet the availability requirement of a
-given application/job. This is due to the fact that when a virtualized
-server fails, multiple VMs placed on the server will all fail. It is
-also worth noting that even at the server levels, failures (or
-non-accessibility) may be correlated both temporally and spatially.</p>
+<p>The above illustrates the overall system model to be considered in this project. As shown, we will consider two types of applications/jobs</p>
+<ul class="simple">
+<li>Application/Job 1 is relatively critical in that it requires a
+(constant) minimum number of VMs, e.g., N1, be available
+most of the time (e.g. 99.9%)</li>
+<li>Application/Job2 can afford a dynamic (i.e., time-varying) number of VMs,
+e.g., N2(t) at time t, with a lower availability</li>
+</ul>
+<p>In either case, multiple backup VMs (e.g., K1 &gt; 1) may be needed to meet the availability requirement of a
+given application/job. This is due to the fact that when a virtualized server fails, multiple VMs placed on the server will all fail. It is also worth noting that even at the server levels, failures (or non-accessibility) may be correlated both temporally and spatially.</p>
 </div>
 </div>
 
