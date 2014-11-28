@@ -33,7 +33,7 @@ CloudAqua Publications
 Cloud Metrics Publications
 ----------------------------------------------------------------------
 
-The publications [vonLaszewski0][vonlaszewski1] were funded by the NSF TAS project. 
+The publications by von Laszewski were funded by the NSF TAS project. 
 
 * |gvl1pdf|_ |gvl1doi|_ |gvl1home|_
   F. Wang, G. von Laszewski, G. C. Fox, T. R. Furlani, R. L. DeLeon,
