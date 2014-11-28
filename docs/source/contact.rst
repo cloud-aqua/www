@@ -22,7 +22,7 @@ Faculty
        | Adj. Associate Prof. 
        | 419 N. Indiana Ave
        | Bloomington IN 47408
-       | Phone (cell): (585) 993 2922
+       | Phone: (812) 856 1311
        | E-mail: laszewski@gmail.com 
        | Web Page: http://gregor.cyberaide.org 
     
